@@ -2,6 +2,8 @@
 
 INTEGRANTES
 
-ALFA - Leandro Murakoshi 
+ALFA - Leandro Murakoshi
+
 BETA - Agustin Friadenrich 
+
 GAMMA - Francisco Diaz Barbacovi
