@@ -12,3 +12,17 @@ a- En testing el color de fondo es azul.
 b- En desarrollo el color de fondo es amarillo.
 c- En master el color de fondo es blanco, ya que hubo un conflicto en el archivo de estilo.css y quedaron escritos ambos colores.
 d- En master quedó el favicoin del ultimo merge, es decir, el de BETA.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+e- Si, BETA y GAMMA.
+f- El problema fue la diferencia entre los archivos del index, que al tener cambios distintos a los de los repositorios locales no permitían hacer el push.
+g- La solución que aplicamos fue hacer un pull para solucionar los conflictos y para que así queden todos los cambios en la rama testing. Otra solución hubiese sido hacer push -f, que hubiese eliminado los cambios del contribuyente anterior.
+h- Borraría los cambios del que haya hecho el push antes, sobreescribiendo los archivos e ignorarndo cualquier conflicto
+i- Para hacer que todos los <p> de esos puntos estén en desarrollo, deberíamos hacer un merge desde el master hacia DESARROLLO. 
