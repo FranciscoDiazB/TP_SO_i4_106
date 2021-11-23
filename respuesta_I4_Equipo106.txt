@@ -1,0 +1,14 @@
+INTEGRANTES:
+ALFA - Leandro Murakoshi
+BETA - Agustin Friadenrich
+GAMMA - Francisco Diaz Barbacovi
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+a- En testing el color de fondo es azul.
+b- En desarrollo el color de fondo es amarillo.
+c- En master el color de fondo es blanco, ya que hubo un conflicto en el archivo de estilo.css y quedaron escritos ambos colores.
+d- En master quedó el favicoin del ultimo merge, es decir, el de BETA.
